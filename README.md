@@ -9,3 +9,6 @@ dotnet run
 ```
 
 Open Swagger UI at `/swagger`.
+
+Part 6 complete: Email property, course filter endpoint, and YearLevel validation.
+
